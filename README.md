@@ -1,7 +1,5 @@
 # A-0524 Lab Day 2 - Bootstrap Website
 
-[![](https://raw.githubusercontent.com/elmerdotdev/web-dev-1-lab-2-bootstrap/main/design/desktop.png)](#)
-
 Bootstrap Docs: [https://getbootstrap.com/docs/5.3/getting-started/introduction/]
 
 ## Instructions
