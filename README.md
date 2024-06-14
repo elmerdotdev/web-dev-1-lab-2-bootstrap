@@ -23,61 +23,7 @@ Bootstrap Docs: [https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 #### Table
 
-The table needs to be responsive. You can find the table data below:
-
-```html
-<table>
-  <thead>
-      <tr>
-          <th>#</th>
-          <th>Name</th>
-          <th>Email</th>
-          <th>Role</th>
-          <th>Status</th>
-          <th>Phone</th>
-          <th>Address</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>1</td>
-          <td>John Doe</td>
-          <td>john.doe@example.com</td>
-          <td>Administrator</td>
-          <td>Active</td>
-          <td>(123) 456-7890</td>
-          <td>1234 Elm St, Springfield</td>
-      </tr>
-      <tr>
-          <td>2</td>
-          <td>Jane Smith</td>
-          <td>jane.smith@example.com</td>
-          <td>Editor</td>
-          <td>Active</td>
-          <td>(234) 567-8901</td>
-          <td>5678 Oak St, Metropolis</td>
-      </tr>
-      <tr>
-          <td>3</td>
-          <td>Samuel Johnson</td>
-          <td>samuel.johnson@example.com</td>
-          <td>Subscriber</td>
-          <td>Inactive</td>
-          <td>(345) 678-9012</td>
-          <td>9101 Pine St, Gotham</td>
-      </tr>
-      <tr>
-          <td>4</td>
-          <td>Lisa Wong</td>
-          <td>lisa.wong@example.com</td>
-          <td>Contributor</td>
-          <td>Active</td>
-          <td>(456) 789-0123</td>
-          <td>1121 Maple St, Star City</td>
-      </tr>
-  </tbody>
-</table>
-```
+The table needs to be responsive when the table no longer fits the screen.
 
 #### Login Form
 
