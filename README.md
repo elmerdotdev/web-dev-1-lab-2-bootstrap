@@ -4,7 +4,7 @@ Bootstrap Docs: [https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 ## Instructions
 
-- Recreate the mockup provided in the `design` directory. Use the `index.html` file.
+- Recreate the mockup provided in the `design` directory as best as you can. Use the `index.html` file.
 - No custom CSS stylesheet or inline style, use only **Bootstrap classes**.
 - Once you are done, commit and push.
 
