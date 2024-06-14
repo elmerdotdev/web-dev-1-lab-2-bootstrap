@@ -13,6 +13,7 @@ Bootstrap Docs: [https://getbootstrap.com/docs/5.3/getting-started/introduction/
 ### Header
 
 - On large screens, the search form is between the logo and the menu. On smaller screens, the order is switched and the search form is after the menu.
+- The last menu item is disabled. You should not be able to click on it.
 
 ### Sidebar
 
